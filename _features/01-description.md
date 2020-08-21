@@ -8,7 +8,7 @@ image:
 
 ### Instructor
 [Fabio A. González](http://dis.unal.edu.co/~fgonza/)  
-*MSc y PhD en Ingeniería de Sistemas y Computación*  
+*Programs: MSc & PhD en Ingeniería de Sistemas y Computación*  
 *Universidad Nacional de Colombia*
 
 ### Course goal
@@ -21,7 +21,5 @@ At the end of the course the student will be able:
 - To build quantum circuits connecting different types of quantum gates.
 - To implement quantum circuits and algorithms using quantum programming libraries.
 - To run quantum circuits and algorithms using quantum simulators and real quantum computers.
-- TO understand how to design quantum algorithms to solve different problems.
-- TO understand how to design hybrid quantum algorithms to solve machine learning problems.
-
-
+- To understand how to design quantum algorithms to solve different problems.
+- To understand how to design hybrid quantum algorithms to solve machine learning problems.
