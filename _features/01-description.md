@@ -12,7 +12,7 @@ image:
 *Universidad Nacional de Colombia*
 
 ### Course goal
-Quantum computing is a rapid developing field with a high potential to revolutionize the way we computer and how we use computers to solve problems. It exploits the particular nature of quantum systems to perform calculations that in some cases can exhibit exponential speed-ups with respect to classical computers.  This course is an introduction to the mathematical tools necessary to describe quantum systems and the fundamental concepts of quantum circuits and algorithms. The course will provide tools that allow students to implement quantum circuits and algorithms using quantum computing libraries and to run them using quantum simulators as well as real hardware. The final part of the course will focus on the application of quantum computing to machine learning.
+Quantum computing is a rapid developing field with a high potential to revolutionize the way we compute and how we use computers to solve problems. It exploits the particular nature of quantum systems to perform calculations that in some cases can exhibit exponential speed-ups with respect to classical computers.  This course is an introduction to the mathematical tools necessary to describe quantum systems and the fundamental concepts of quantum circuits and algorithms. The course will provide tools that allow students to implement quantum circuits and algorithms using quantum computing libraries and to run them using quantum simulators as well as real hardware. The final part of the course will focus on the application of quantum computing to machine learning.
 
 At the end of the course the student will be able:
 

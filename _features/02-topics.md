@@ -8,7 +8,7 @@ image:
 
 1 **Quantum Computing Basis**
 
-1.1 Introduction to quantum computing						
+1.1 Introduction to quantum computing					
 
 1.2 Linear algebra and Dirac notation
 

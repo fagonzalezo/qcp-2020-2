@@ -30,6 +30,8 @@ image:
 				1.2 Linear algebra and Dirac notation
 			</td>
 			<td>
+				[Nielsen10] Section 2.1 <br>
+				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a>
 			</td>
 			<td>
 			</td>
