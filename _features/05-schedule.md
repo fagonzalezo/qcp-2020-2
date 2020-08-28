@@ -19,7 +19,10 @@ image:
 			</td>
 			<td>
 				[IGFAE20]  Lecture 1: Introduction to Quantum Computing (<a href= "https://indico.cern.ch/event/865287/attachments/1971786/3280301/Lecture_1_v1.pdf">slides</a>)<br>
-				[Nielsen10] Sections 1.1 and 1.2 <br>
+				[Nielsen10] Sections 1.1 Global perspectives<br>
+				Dario Gil, The Future of Quantum Computing, IBM 2020 (<a href= "https://www.youtube.com/watch?v=zOGNoDO7mcU">video</a>)<br>
+				Class Aug 25 (<a href= "https://drive.google.com/file/d/1NvMS55DF7dQX2OmcE00M9TEo2Jk912ib/view?usp=sharing">video</a>)<br>
+				Class Aug 27 (<a href= "https://drive.google.com/file/d/1Oy9ENqFP6FTe3NPwvvDwZEsez3Eyt0oa/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 			</td>
@@ -27,10 +30,12 @@ image:
 		<tr>
 			<td>Sep 1</td>
 			<td>
+				1.1 Introduction to quantum computing <br>
 				1.2 Linear algebra and Dirac notation
 			</td>
 			<td>
-				[Nielsen10] Section 2.1 <br>
+				[Nielsen10] Section 2.1 Linear algebra<br>
+				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
 				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a>
 			</td>
 			<td>
