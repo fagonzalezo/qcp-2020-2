@@ -37,6 +37,10 @@ image:
 				[Nielsen10] Section 2.1 Linear algebra<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
 				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a>
+				Class Sep 1 (<a href= "https://drive.google.com/file/d/1CDasHChvAUT1gDNEj-1qF2JqA07aP4SN/view?usp=sharing">video</a>)<br>
+				Class Sep 3 (<a href= "https://drive.google.com/file/d/1Q_SP3r4qD3eTQyc5aRO6DjFSZitMEuYq/view?usp=sharing">video</a>)<br>
+				QCP-2020-2_Linear_Algebra.pdf
+				Notes Sep 3 (<a href= "QCP-2020-2_Linear_Algebra.pdf">pdf</a>)
 			</td>
 			<td>
 			</td>
