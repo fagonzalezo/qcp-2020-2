@@ -40,7 +40,6 @@ image:
 				Class Sep 1 (<a href= "https://drive.google.com/file/d/1CDasHChvAUT1gDNEj-1qF2JqA07aP4SN/view?usp=sharing">video</a>)<br>
 				Class Sep 3 (<a href= "https://drive.google.com/file/d/1Q_SP3r4qD3eTQyc5aRO6DjFSZitMEuYq/view?usp=sharing">video</a>)<br>
 				Class Sep 8 (<a href= "https://drive.google.com/file/d/1ZTTQWkqM7OlFhVTBSpWMhmuwsfl_-Dqk/view?usp=sharing">video</a>)<br>
-				QCP-2020-2_Linear_Algebra.pdf
 				Notes Sep 3-8 (<a href= "QCP-2020-2_Linear_Algebra.pdf">pdf</a>)
 			</td>
 			<td>
@@ -50,7 +49,9 @@ image:
 			<td>Sep 15</td>
 			<td>
 				1.3 Qubits <br>
-				1.4 Composite systems 
+				1.4 Measurements <br>
+				Class Sep 10 (<a href= "https://drive.google.com/file/d/1nyB726wJmK7TEgdgAHqCHwcjQt8C5jeT/view?usp=sharing">video</a>)<br>
+				Notes Sep 10 (<a href= "QCP-2020-2_Qubits.pdf">pdf</a>)
 			</td>
 			<td>
 			</td>
@@ -60,7 +61,7 @@ image:
 		<tr>
 			<td>Sep 15</td>
 			<td>
-				1.5 Measurements <br>
+				1.5 Composite systems 
 				1.6 Pure, entangled and mixed states
 			</td>
 			<td>
