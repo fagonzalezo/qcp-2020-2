@@ -14,9 +14,9 @@ image:
 
 1.3 Qubits
 
-1.4 Composite systems	
+1.4 Measurements 
 
-1.5 Measurements 
+1.5 Composite systems	
 
 1.6 Pure, entangled and mixed states
 
