@@ -62,7 +62,7 @@ image:
 		<tr>
 			<td>Sep 15</td>
 			<td>
-				1.5 Composite systems 
+				1.5 Composite systems<br>
 				1.6 Pure, entangled and mixed states
 			</td>
 			<td>
