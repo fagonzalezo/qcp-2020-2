@@ -54,7 +54,8 @@ image:
 			<td>
 				[CS191x] Chapter 1 Qubits and Quantum Measurement<br>
 				Class Sep 10 (<a href= "https://drive.google.com/file/d/1nyB726wJmK7TEgdgAHqCHwcjQt8C5jeT/view?usp=sharing">video</a>)<br>
-				Notes Sep 10 (<a href= "QCP-2020-2_Qubits.pdf">pdf</a>)
+				Class Sep 15 (<a href= "https://drive.google.com/file/d/16IZRAzmnxSZX46o3zTHgbYnLHYoTNo5e/view?usp=sharing">video</a>)<br>
+				Notes Sep 10-15 (<a href= "QCP-2020-2_Qubits.pdf">pdf</a>)
 			</td>
 			<td>
 			</td>
