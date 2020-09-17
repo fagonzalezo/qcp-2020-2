@@ -63,12 +63,14 @@ image:
 		<tr>
 			<td>Sep 15</td>
 			<td>
+				[CS191x] Chapter 2 Entanglement<br>
 				1.5 Composite systems<br>
 				1.6 Pure, entangled and mixed states
 			</td>
 			<td>
 			</td>
 			<td>
+				<a href= "https://colab.research.google.com/drive/11udYpEILszY1QyZbkzSpQiTN_9D0UboB?usp=sharing">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
