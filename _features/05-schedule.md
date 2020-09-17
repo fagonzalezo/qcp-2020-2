@@ -53,6 +53,7 @@ image:
 			</td>
 			<td>
 				[CS191x] Chapter 1 Qubits and Quantum Measurement<br>
+				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
 				Class Sep 10 (<a href= "https://drive.google.com/file/d/1nyB726wJmK7TEgdgAHqCHwcjQt8C5jeT/view?usp=sharing">video</a>)<br>
 				Class Sep 15 (<a href= "https://drive.google.com/file/d/16IZRAzmnxSZX46o3zTHgbYnLHYoTNo5e/view?usp=sharing">video</a>)<br>
 				Notes Sep 10-15 (<a href= "QCP-2020-2_Qubits.pdf">pdf</a>)
@@ -68,6 +69,7 @@ image:
 			</td>
 			<td>
 				[CS191x] Chapter 2 Entanglement<br>
+				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/1EVCr0qdID8s-74MJpBVkuFhWIIvn4qH7?usp=sharing">Assignment 2</a>
