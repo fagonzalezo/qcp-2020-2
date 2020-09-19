@@ -70,6 +70,8 @@ image:
 			<td>
 				[CS191x] Chapter 2 Entanglement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
+				Class Sep 17 (<a href= "https://drive.google.com/file/d/1XAo-7F1OZG2F3T-Aj_xh77CBTvBpbqEa/view?usp=sharing">video</a>)<br>
+				Notes Sep 17 (<a href= "QCP-2020-2 Entanglement.pdf">pdf</a>)
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/1EVCr0qdID8s-74MJpBVkuFhWIIvn4qH7?usp=sharing">Assignment 2</a>
