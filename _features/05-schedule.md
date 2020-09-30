@@ -62,7 +62,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 15</td>
+			<td>Sep 15-22</td>
 			<td>
 				1.5 Composite systems<br>
 				1.6 Pure, entangled and mixed states
@@ -78,12 +78,13 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 22</td>
+			<td>Sep 29</td>
 			<td>
 				1.7 Theory of computation and Computational Complexity <br>
-				1.8 Implementation of quantum computers	
 			</td>
 			<td>
+				[Nielsen10] 3.2 The analysis of computational problems<br>
+				Class Sep 29 (<a href= "https://drive.google.com/file/d/1twylkFaK_ZfUZcAfg_Owq2mlziUEfDkQ/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 			</td>
