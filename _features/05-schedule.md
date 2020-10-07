@@ -90,17 +90,25 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Sep 29</td>
+			<td>Oct 6-13</td>
 			<td>
+				1.8 Implementation of quantum computers	<br>
 				2.1 Quantum circuits and gates
 			</td>
 			<td>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/atoms-computation.html">1.2 The Atoms of Computation</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/representing-qubit-states.html">1.3 Representing Qubit States</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/single-qubit-gates.html">1.4 Single Qubit Gates</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html">2.2 Multiple Qubits and Entangled States</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/phase-kickback.html">2.3 Phase Kickback</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/more-circuit-identities.html">2.4 More Circuit Identities</a><br>
+				Class Oct 7 (<a href= "https://drive.google.com/file/d/1TZhUej3ZFWLlfIwof5AjPhjlyrzDVBIv/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 6</td>
+			<td>Oct 13</td>
 			<td>
 				2.2 Superdense coding and teleportation
 			</td>
@@ -110,7 +118,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 13</td>
+			<td>Oct 20</td>
 			<td>
 				2.3 Deutsch-Joza algorithm<br>
 				2.4 Simon's algorithm
