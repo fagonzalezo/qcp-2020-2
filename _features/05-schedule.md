@@ -102,7 +102,8 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html">2.2 Multiple Qubits and Entangled States</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/phase-kickback.html">2.3 Phase Kickback</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/more-circuit-identities.html">2.4 More Circuit Identities</a><br>
-				Class Oct 7 (<a href= "https://drive.google.com/file/d/1TZhUej3ZFWLlfIwof5AjPhjlyrzDVBIv/view?usp=sharing">video</a>)<br>
+				Class Oct 6 (<a href= "https://drive.google.com/file/d/1TZhUej3ZFWLlfIwof5AjPhjlyrzDVBIv/view?usp=sharing">video</a>)<br>
+				Class Oct 8 (<a href= "https://drive.google.com/file/d/1fxZEMArLKpDmTR1FuR46cmolsavUJqY4/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 			</td>
