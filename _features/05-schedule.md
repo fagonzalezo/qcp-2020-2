@@ -104,7 +104,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/more-circuit-identities.html">2.4 More Circuit Identities</a><br>
 				Class Oct 6 (<a href= "https://drive.google.com/file/d/1TZhUej3ZFWLlfIwof5AjPhjlyrzDVBIv/view?usp=sharing">video</a>)<br>
 				Class Oct 8 (<a href= "https://drive.google.com/file/d/1fxZEMArLKpDmTR1FuR46cmolsavUJqY4/view?usp=sharing">video</a>)<br>
-				Class Oct 13 (<a href= "https://drive.google.com/file/d/1MqUcSPZlF2Kz_e9qjhYmT8yAvVfteJSD/view?usp=sharing">video</a>)<br>
+				Class Oct 13 (<a href= "https://drive.google.com/file/d/1Q1TmFkMw5Q-eLACzey6W5KrNsILqAHcD/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/1zVs26V5flXBCfWdHObtE_dN88QnIHpkJ?usp=sharing">Assignment 3</a>
