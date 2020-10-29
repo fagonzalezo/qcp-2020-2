@@ -85,6 +85,7 @@ image:
 			<td>
 				[Nielsen10] 3.2 The analysis of computational problems<br>
 				Class Sep 29 (<a href= "https://drive.google.com/file/d/1twylkFaK_ZfUZcAfg_Owq2mlziUEfDkQ/view?usp=sharing">video</a>)<br>
+				Notes Sep 29 (<a href= "QCP-2020-2_Computational_Complexity.pdf">pdf</a>)
 			</td>
 			<td>
 			</td>
@@ -111,31 +112,13 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 13</td>
+			<td>Oct 20</td>
 			<td>
 				2.2 Superdense coding and teleportation
-			</td>
-			<td>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Oct 20</td>
-			<td>
-				2.3 Deutsch-Joza algorithm<br>
-				2.4 Simon's algorithm
-			</td>
-			<td>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Oct 20</td>
-			<td>
-			2.5 Shor's algorithm <br>
-			2.6 Grover's algorithm
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/teleportation.html">2.2 Quantum Teleportation</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/superdense-coding.html">2.2 Superdense Coding</a><br>
+				Class Oct 20 (<a href= "https://drive.google.com/file/d/1c-b9MgG5yGsXzitTTHc0y8n9I0sDbsax/view?usp=sharing">video</a>)<br>
+				Class Oct 22 (<a href= "https://drive.google.com/file/d/1WclOxhhLPjV5gayrUxozyjzOJmirZMJr/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 			</td>
@@ -145,9 +128,16 @@ image:
 		<tr>
 			<td>Oct 27</td>
 			<td>
-				2.7 Noisy intermediate scale quantum computers<br>
+				2.3 Deutsch-Joza algorithm<br>
+				2.4 Simon's algorithm
 			</td>
 			<td>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html">3.4 Deutsch-Jozsa Algorithm</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/simon.html">3.6 Simon's Algorithm</a><br>
+				Class Oct 27 (<a href= "https://drive.google.com/file/d/13dnpn4GKOETNRySGzA_UI7GJT6vxzanR/view?usp=sharing">video</a>)<br>
+				Notes Oct 27 (<a href= "QCP-2020-2 Deutsch-Jozsa_Algorithm.pdf">pdf</a>)
+				Class Oct 29 (<a href= "https://drive.google.com/file/d/1mjC1PqrfACG80sVy0_Zozd4pbeMwc4sx/view?usp=sharing">video 1</a>, <a href= "https://drive.google.com/file/d/1F-vZc3-nwLHFo4ecswJJeXSryzy5DZGd/view?usp=sharing">video 2</a>)<br>
+				Notes Oct 29 (<a href= "QCP-2020-2_Simons_algorithm.pdf">pdf</a>)
 			</td>
 			<td>
 			</td>
@@ -155,9 +145,30 @@ image:
 		<tr>
 			<td>Nov 3</td>
 			<td>
+			2.5 Shor's algorithm <br>
+			2.6 Grover's algorithm
+			</td>
+			<td>
+				3.11 Quantum Counting (Hans Toquica)
+				3.12 Quantum Key Distribution (Sebastián Medina)
+				Recent paper on quantum networking, cryptography and/or blockchain (Leonardo Avendaño)
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Nov 10</td>
+			<td>
 				2.8 Quantum algorithms for applications
 			</td>
 			<td>
+4.1.1 Solving Linear Systems of Equations using HHL (Oscar Bustos)
+4.1.2 Simulating Molecules using VQE (Nicolas Parra)
+Recent paper about molecule simulation (Camilo Pino)
+4.1.3 Solving combinatorial optimization problems using QAOA (Angel Corredor)
+4.1.4 Solving Satisfiability Problems using Grover's Algorithm (Pedro Valderrama)
+4.1.5 Hybrid quantum-classical Neural Networks with PyTorch and Qiskit (Sneyder Gantiva)
+4.2.1 Variational Quantum Linear Solver (Carlos Garavito)
 			</td>
 			<td>
 			</td>
