@@ -144,12 +144,15 @@ image:
 			<td>Nov 3</td>
 			<td>
 			2.5 Shor's algorithm <br>
-			2.6 Grover's algorithm
 			</td>
 			<td>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html">3.7 Quantum Fourier Transform</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-phase-estimation.html">3.8 Quantum Phase Estimation</a><br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/shor.html">3.9 Shor's Algorithm</a><br>
 				3.11 Quantum Counting (Hans Toquica) <br>
 				3.12 Quantum Key Distribution (Sebastián Medina)<br>
 				Recent paper on quantum networking, cryptography and/or blockchain (Leonardo Avendaño) <br>
+				Class Nov 5 (<a href= "https://drive.google.com/file/d/1k8cOtd94uQ_3VSW3uhyEs_ZtBYbkjiXi/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)
 			</td>
 			<td>
 			</td>
