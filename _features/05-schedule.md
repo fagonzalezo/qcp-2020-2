@@ -141,7 +141,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 3</td>
+			<td>Nov 3-10</td>
 			<td>
 			2.5 Shor's algorithm <br>
 			</td>
@@ -149,16 +149,18 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html">3.7 Quantum Fourier Transform</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-phase-estimation.html">3.8 Quantum Phase Estimation</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/shor.html">3.9 Shor's Algorithm</a><br>
-				3.11 Quantum Counting (Hans Toquica) <br>
-				3.12 Quantum Key Distribution (Sebastián Medina)<br>
-				Recent paper on quantum networking, cryptography and/or blockchain (Leonardo Avendaño) <br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-counting.html">3.11 Quantum Counting</a> (Hans Toquica) <br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html">3.12 Quantum Key Distribution</a> (Sebastián Medina)<br>
+				Edwards et al, <a href= "https://link.springer.com/article/10.1007/s11128-020-02672-y"> A review of quantum and hybrid quantum/classical blockchain protocols</a> (Leonardo Avendaño) <br>
 				Class Nov 5 (<a href= "https://drive.google.com/file/d/1k8cOtd94uQ_3VSW3uhyEs_ZtBYbkjiXi/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)
+				Class Nov 10 (<a href= "https://drive.google.com/file/d/1sKRIdi3ZQ5bxTHV8bb_bXY8vDTv2HRlw/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)
 			</td>
 			<td>
+				<a href= "assign4.pdf">Assignment 4</a>
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 10</td>
+			<td>Nov 17</td>
 			<td>
 				2.8 Quantum algorithms for applications
 			</td>
@@ -175,18 +177,9 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 10</td>
+			<td>Nov 24</td>
 			<td>
 				3.1 Machine learning review
-			</td>
-			<td>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>Nov 17</td>
-			<td>
 				3.2 Quantum measurement classification
 			</td>
 			<td>
@@ -195,7 +188,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 24</td>
+			<td>Dec 1</td>
 			<td>
 				3.3 Quantum machine learning algorithms
 			</td>
