@@ -179,7 +179,7 @@ image:
 		<tr>
 			<td>Nov 24</td>
 			<td>
-				3.1 Machine learning review
+				3.1 Machine learning review<br>
 				3.2 Quantum measurement classification
 			</td>
 			<td>
