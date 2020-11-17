@@ -154,6 +154,7 @@ image:
 				Edwards et al, <a href= "https://link.springer.com/article/10.1007/s11128-020-02672-y"> A review of quantum and hybrid quantum/classical blockchain protocols</a> (Leonardo Avendaño) <br>
 				Class Nov 5 (<a href= "https://drive.google.com/file/d/1k8cOtd94uQ_3VSW3uhyEs_ZtBYbkjiXi/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)
 				Class Nov 10 (<a href= "https://drive.google.com/file/d/1sKRIdi3ZQ5bxTHV8bb_bXY8vDTv2HRlw/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)
+				Class Nov 12 (<a href= "https://drive.google.com/file/d/1cnn1Di-PWduw1gI1qLZfyrwP54p2i-7T/view?usp=sharing">video</a>)
 			</td>
 			<td>
 				<a href= "assign4.pdf">Assignment 4</a>
@@ -165,13 +166,13 @@ image:
 				2.8 Quantum algorithms for applications
 			</td>
 			<td>
-				4.1.1 Solving Linear Systems of Equations using HHL (Oscar Bustos)<br>
-				4.1.2 Simulating Molecules using VQE (Nicolas Parra)<br>
-				Recent paper about molecule simulation (Camilo Pino)<br>
-				4.1.3 Solving combinatorial optimization problems using QAOA (Angel Corredor)<br>
-				4.1.4 Solving Satisfiability Problems using Grover's Algorithm (Pedro Valderrama)<br>
-				4.1.5 Hybrid quantum-classical Neural Networks with PyTorch and Qiskit (Sneyder Gantiva)<br>
-				4.2.1 Variational Quantum Linear Solver (Carlos Garavito)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/hhl_tutorial.html"> 4.1.1 Solving Linear Systems of Equations using HHL</a> (Oscar Bustos)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/vqe-molecules.html"> 4.1.2 Simulating Molecules using VQE</a> (Nicolas Parra)<br>
+				<a href= "https://arxiv.org/abs/1902.10679"> Increasing the representation accuracy of quantum simulations of chemistry without extra quantum resources</a> (Camilo Pino)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/qaoa.html"> 4.1.3 Solving combinatorial optimization problems using QAOA</a> (Angel Corredor)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/satisfiability-grover.html"> 4.1.4 Solving Satisfiability Problems using Grover's Algorithm</a> (Pedro Valderrama)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html"> 4.1.5 Hybrid quantum-classical Neural Networks with PyTorch and Qiskit</a> (Sneyder Gantiva)<br>
+				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-paper-implementations/vqls.html"> 4.2.1 Variational Quantum Linear Solver</a> (Carlos Garavito)<br>
 			</td>
 			<td>
 			</td>
@@ -194,8 +195,8 @@ image:
 			</td>
 			<td>
 				[Schuld18] 6.1.1 Inner Products with Interference Circuits <br>
-				[Schuld18] 6.1.2 A Quantum Circuit as a Linear Model <br>
-				[Schuld18] 6.1.3 Linear Models in Basis Encoding <br>
+				[Schuld18] 6.1.2 A Quantum Circuit as a Linear Model (Diego Vega)<br> 
+				[Schuld18] 6.1.3 Linear Models in Basis Encoding (Juan Pablo Ovalle) <br>
 				[Schuld18] 6.1.4 Nonlinear Activations <br>
 				<a href= "https://arxiv.org/abs/1905.13205">Near-Term Quantum-Classical Associative Adversarial Networks</a> <br>
 				<a href= "https://arxiv.org/abs/2002.06169">Learning models of quantum systems from experiments</a><br>
