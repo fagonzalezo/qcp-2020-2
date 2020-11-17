@@ -193,6 +193,18 @@ image:
 				3.3 Quantum machine learning algorithms
 			</td>
 			<td>
+				[Schuld18] 6.1.1 Inner Products with Interference Circuits <br>
+				[Schuld18] 6.1.2 A Quantum Circuit as a Linear Model <br>
+				[Schuld18] 6.1.3 Linear Models in Basis Encoding <br>
+				[Schuld18] 6.1.4 Nonlinear Activations <br>
+				<a href= "https://arxiv.org/abs/1905.13205">Near-Term Quantum-Classical Associative Adversarial Networks</a> <br>
+				<a href= "https://arxiv.org/abs/2002.06169">Learning models of quantum systems from experiments</a><br>
+				<a href= "https://arxiv.org/abs/1605.05775">Supervised Learning with Quantum-Inspired Tensor Networks</a><br>
+				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning</a><br>
+				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a><br>
+				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a><br>
+				<a href= "https://arxiv.org/abs/2008.02785">Characterizing the loss landscape of variational quantum circuits</a><br>
+				<a href= "https://arxiv.org/abs/2004.00026">Small quantum computers and large classical data sets</a><br>
 			</td>
 			<td>
 			</td>
