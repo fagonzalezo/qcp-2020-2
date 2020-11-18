@@ -151,7 +151,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/shor.html">3.9 Shor's Algorithm</a><br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-counting.html">3.11 Quantum Counting</a> (Hans Toquica) <br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-key-distribution.html">3.12 Quantum Key Distribution</a> (Sebastián Medina)<br>
-				Edwards et al, <a href= "https://link.springer.com/article/10.1007/s11128-020-02672-y"> A review of quantum and hybrid quantum/classical blockchain protocols</a> (Leonardo Avendaño) <br>
+				Edwards et al, <a href= "https://link.springer.com/article/10.1007/s11128-020-02672-y"> A review of quantum and hybrid quantum/classical blockchain protocols</a> (Leonardo Avendaño) (<a href= "Review on quantum blockchain.pdf">presentation</a>) <br>
 				Class Nov 5 (<a href= "https://drive.google.com/file/d/1k8cOtd94uQ_3VSW3uhyEs_ZtBYbkjiXi/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)<br>
 				Class Nov 10 (<a href= "https://drive.google.com/file/d/1sKRIdi3ZQ5bxTHV8bb_bXY8vDTv2HRlw/view?usp=sharing">video</a>, <a href= "QCP-2020-2 Shor’s algorithm.pdf">notes</a>)<br>
 				Class Nov 12 (<a href= "https://drive.google.com/file/d/1cnn1Di-PWduw1gI1qLZfyrwP54p2i-7T/view?usp=sharing">video</a>)<br>
@@ -201,11 +201,11 @@ image:
 				<a href= "https://arxiv.org/abs/1905.13205">Near-Term Quantum-Classical Associative Adversarial Networks</a> <br>
 				<a href= "https://arxiv.org/abs/2002.06169">Learning models of quantum systems from experiments</a><br>
 				<a href= "https://arxiv.org/abs/1605.05775">Supervised Learning with Quantum-Inspired Tensor Networks</a><br>
-				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning</a><br>
-				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a><br>
+				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning (Miguel Angel Rodríguez)</a><br>
+				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models (Cristhian Gómez)</a><br>
 				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a><br>
 				<a href= "https://arxiv.org/abs/2008.02785">Characterizing the loss landscape of variational quantum circuits</a><br>
-				<a href= "https://arxiv.org/abs/2004.00026">Small quantum computers and large classical data sets</a><br>
+				<a href= "https://arxiv.org/abs/2004.00026">Small quantum computers and large classical data sets</a>(Miguel Angel Ortiz)<br>
 			</td>
 			<td>
 			</td>
