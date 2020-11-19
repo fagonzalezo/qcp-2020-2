@@ -173,8 +173,11 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/satisfiability-grover.html"> 4.1.4 Solving Satisfiability Problems using Grover's Algorithm</a> (Pedro Valderrama)<br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html"> 4.1.5 Hybrid quantum-classical Neural Networks with PyTorch and Qiskit</a> (Sneyder Gantiva)<br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-paper-implementations/vqls.html"> 4.2.1 Variational Quantum Linear Solver</a> (Carlos Garavito)<br>
+				Class Nov 17 (<a href= "https://drive.google.com/file/d/17-Q6Bce7KS_JrBSAlfUjV6-h_bAuSh95/view?usp=sharing">video</a>)<br>
+				Class Nov 19 (<a href= "">video</a>)<br>
 			</td>
 			<td>
+				<a href= "project.pdf">Final Project</a>
 			</td>
 		</tr>
 		<tr>
