@@ -174,7 +174,7 @@ image:
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html"> 4.1.5 Hybrid quantum-classical Neural Networks with PyTorch and Qiskit</a> (Sneyder Gantiva)<br>
 				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-paper-implementations/vqls.html"> 4.2.1 Variational Quantum Linear Solver</a> (Carlos Garavito)<br>
 				Class Nov 17 (<a href= "https://drive.google.com/file/d/17-Q6Bce7KS_JrBSAlfUjV6-h_bAuSh95/view?usp=sharing">video</a>)<br>
-				Class Nov 19 (<a href= "">video</a>)<br>
+				Class Nov 19 (<a href= "https://drive.google.com/file/d/1CN2txCr9XkIAsmcJAj7iAyDQy6UYjbVh/view?usp=sharing">video</a>)<br>
 			</td>
 			<td>
 				<a href= "project.pdf">Final Project</a>
@@ -197,17 +197,13 @@ image:
 				3.3 Quantum machine learning algorithms
 			</td>
 			<td>
-				[Schuld18] 6.1.1 Inner Products with Interference Circuits <br>
+				[Schuld18] 6.1.1 Inner Products with Interference Circuits (Miguel Angel Castro)<br>
 				[Schuld18] 6.1.2 A Quantum Circuit as a Linear Model (Diego Vega)<br> 
 				[Schuld18] 6.1.3 Linear Models in Basis Encoding (Juan Pablo Ovalle) <br>
-				[Schuld18] 6.1.4 Nonlinear Activations <br>
-				<a href= "https://arxiv.org/abs/1905.13205">Near-Term Quantum-Classical Associative Adversarial Networks</a> <br>
-				<a href= "https://arxiv.org/abs/2002.06169">Learning models of quantum systems from experiments</a><br>
-				<a href= "https://arxiv.org/abs/1605.05775">Supervised Learning with Quantum-Inspired Tensor Networks</a><br>
-				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning (Miguel Angel Rodríguez)</a><br>
-				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models (Cristhian Gómez)</a><br>
-				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a><br>
-				<a href= "https://arxiv.org/abs/2008.02785">Characterizing the loss landscape of variational quantum circuits</a><br>
+				[Schuld18] 6.1.4 Nonlinear Activations  (Juan Sebastián Peña) <br>
+				<a href= "https://arxiv.org/abs/1905.13205">Near-Term Quantum-Classical Associative Adversarial Networks</a> (Arkai Julián Ariza) <br>
+				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning</a> (Miguel Angel Rodríguez)<br>
+				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a> (Cristhian Gómez)<br>
 				<a href= "https://arxiv.org/abs/2004.00026">Small quantum computers and large classical data sets</a>(Miguel Angel Ortiz)<br>
 			</td>
 			<td>
