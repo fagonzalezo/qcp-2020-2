@@ -187,6 +187,8 @@ image:
 				3.2 Quantum measurement classification
 			</td>
 			<td>
+				Class Nov 24 (<a href= "https://drive.google.com/file/d/1Cg3UPJ2VbItXuQwbvZ2sTqNI0_pX9ARz/view?usp=sharing">video</a>)<br>
+				Class Nov 26 (<a href= "https://drive.google.com/file/d/1qnsOEsCKvW4bD92gKolu1C1HsKaYGdaK/view?usp=sharing">video</a>,  <a href= "QCP-2020-2 Supervised Learning with QM.pdf">notes</a>)<br>
 			</td>
 			<td>
 			</td>
