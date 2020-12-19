@@ -207,6 +207,9 @@ image:
 				<a href= "https://arxiv.org/abs/2001.03622">Quantum embeddings for machine learning</a> (Miguel Angel Rodríguez)<br>
 				<a href= "https://arxiv.org/abs/2008.08605">The effect of data encoding on the expressive power of variational quantum machine learning models</a> (Cristhian Gómez)<br>
 				<a href= "https://arxiv.org/abs/2004.00026">Small quantum computers and large classical data sets</a>(Miguel Angel Ortiz)<br>
+				Class Dec 1 (<a href= "https://drive.google.com/file/d/14p5WMIDPHkB0JRTvd-eKYs5NI7Mjn7Q5/view?usp=sharing">video</a>)<br>
+				Class Dec 3 (<a href= "https://drive.google.com/file/d/1fAj2F6JOkZR8D7Sxhh8HiQ6FrewRyYWF/view?usp=sharing">video</a>)<br>
+
 			</td>
 			<td>
 			</td>
