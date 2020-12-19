@@ -11,6 +11,7 @@ div.gallery1 {
   margin: 5px;
   border: 1px solid #ccc;
   /* float: left; */
+  display: inline-block;
   width: 200px;
   height: 50%;
 }
