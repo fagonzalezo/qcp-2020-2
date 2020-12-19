@@ -13,7 +13,7 @@ div.gallery1 {
   /* float: left; */
   display: inline-block;
   width: 200px;
-  height: 50%;
+  /*height: 50%;*/
 }
 
 div.gallery1:hover {
