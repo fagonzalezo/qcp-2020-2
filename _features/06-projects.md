@@ -47,7 +47,7 @@ div.desc {
     <img src="project/qcp-project-arjarizami-miacastroco.pdf.jpg" alt="arjarizami-miacastroco" width="600" height="400">
   </a>
   <div class="desc"> Implementación del QRAC de uno y dos qubits
-  (<a href= "https://youtu.be/SLP4ZZtYyTM">video</a>)
+  (<a href= "https://youtu.be/DFkitJwP2qo">video</a>)
   </div>
 </div>
 
