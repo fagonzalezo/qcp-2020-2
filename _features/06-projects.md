@@ -10,7 +10,7 @@ image:
 div.gallery1 {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  /* float: left; */
   width: 200px;
   height: 50%;
 }
