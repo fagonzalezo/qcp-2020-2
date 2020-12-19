@@ -22,7 +22,7 @@ image:
 
 1.7 Theory of computation and Computational Complexity
 
-1.8 Implementation of quantum computers	
+**1.8 Implementation of quantum computers	**
 
 2 **Quantum circuits and algorithms**
 					
