@@ -83,7 +83,7 @@ div.desc {
     <img src="project/qcp-project-pavalderramat-leavendanoro.pdf.jpg" alt="pavalderramat-leavendanoro" width="600" height="400">
   </a>
   <div class="desc"> Transfer Learning with Hybrid Neural Networks
-  (<a href= "https://www.youtube.com/watch?v=2Cuvaj-**zbzU**">video</a>)
+  (<a href= "https://youtu.be/2Cuvaj-zbzU">video</a>)
   </div>
 </div>
 
